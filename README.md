@@ -1,2 +1,0 @@
-# SAYNA-REACTJS-BATMANREACT
-batmant react
